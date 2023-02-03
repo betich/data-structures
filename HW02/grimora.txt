@@ -1,0 +1,3 @@
+Bone Man,0,1,1,Very fragile. It dies in one turn.
+Grizzly,3,4,6,The monstrous Grizzly. Its form speaks enough of its efficacy.
+Bee,0,1,1,BUZZBUZZ

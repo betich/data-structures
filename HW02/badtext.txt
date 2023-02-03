@@ -1,0 +1,7 @@
+Head Chef,1,1,1,He brings us the food. We should be thankful.
+Ham,Cheese,Croissant,Bacon,Egg
+Pasta,Sauce,Spinach,Cheese,Ricotta
+Pasta,Sauce,Cheese,Ricotta
+Pasta,Sauce,Cheese
+Spicy Chicken,Lettuce,Bacon,Tomatoes,Pickles,Top Bun
+Corn Husk,Cornmeal,Spicy Pork,Wrap
