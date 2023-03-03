@@ -55,7 +55,7 @@ public class ZoomaList extends CDLinkedList {
 
 	
 	public void removeBetween(DListIterator left, DListIterator right, int inc) {
-		System.out.println("size: " + size);
+//		System.out.println("size: " + size);
 		if (left.currentNode.equals(right.currentNode) || left.currentNode.nextNode.equals(right.currentNode)) {
 			return;
 		}
@@ -66,7 +66,7 @@ public class ZoomaList extends CDLinkedList {
 		left.currentNode.nextNode = rightNode;
 		right.currentNode.previousNode = leftNode;
 
-		System.out.println("inc: " + inc);
+//		System.out.println("inc: " + inc);
 
 		size -= inc;
 	}
