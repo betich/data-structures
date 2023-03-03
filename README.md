@@ -2,4 +2,6 @@
 
 Solutions to the homework assignments for the Data Structures and Algorithms course at ISE.
 
-- [HW02](HW02/README.md)
+- [HW02](HW02)
+- [HW03](HW03)
+- [HW04](HW04)
