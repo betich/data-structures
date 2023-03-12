@@ -53,5 +53,4 @@ public class BankQueue { // must work for any implementation of DeQ
       special.insertLast(lastQueue.removeLast());
     }
   }
-
 }
