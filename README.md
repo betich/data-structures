@@ -1,7 +1,3 @@
-# Data Structures And Algorithms HW
-
-Solutions to the homework assignments for the Data Structures and Algorithms course at ISE.
-
 ## Homework
 
 - [HW02](Homework/HW02)
@@ -12,9 +8,9 @@ Solutions to the homework assignments for the Data Structures and Algorithms cou
 
 ## Exam Preparation
 
-- [2016]("Exam Preparation/2016")
-- [2018]("Exam Preparation/2018")
-- [2019]("Exam Preparation/2019")
+- [2016](Exam%20Preparation/2016)
+- [2018](Exam%20Preparation/2018)
+- [2019](Exam%20Preparation/2019)
 
 ## Lab
 
@@ -24,6 +20,6 @@ Solutions to the homework assignments for the Data Structures and Algorithms cou
 - [Lab07 (Queue)](Lab/Lab07)
 - [Lab08 (BST)](Lab/Lab08)
 
-## Supplimentary Materials
+## Supplementary Materials
 
-- [code]("Supplimentary Materials")
+- [code](Supplementary%20Materials)
